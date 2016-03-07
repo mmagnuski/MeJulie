@@ -1,0 +1,13 @@
+julia 0.4
+DataFrames
+DataFramesMeta
+GLM
+MixedModels
+IJulia
+PyCall
+PyPlot
+Plots
+MAT
+Images
+ImageView
+ImageMagick
